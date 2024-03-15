@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\College\\Sem2-C#.Net\\workspace\\ProductInventoryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0524F97A-E3FB-4CCA-9822-91E725AB9458}|ProductInventoryManagement.csproj|D:\\College\\Sem2-C#.Net\\workspace\\ProductInventoryManagement\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0524F97A-E3FB-4CCA-9822-91E725AB9458}|ProductInventoryManagement.csproj|solutionrelative:form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0524F97A-E3FB-4CCA-9822-91E725AB9458}|ProductInventoryManagement.csproj|D:\\College\\Sem2-C#.Net\\workspace\\ProductInventoryManagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0524F97A-E3FB-4CCA-9822-91E725AB9458}|ProductInventoryManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0524F97A-E3FB-4CCA-9822-91E725AB9458}|ProductInventoryManagement.csproj|d:\\college\\sem2-c#.net\\workspace\\productinventorymanagement\\fileio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0524F97A-E3FB-4CCA-9822-91E725AB9458}|ProductInventoryManagement.csproj|solutionrelative:fileio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0524F97A-E3FB-4CCA-9822-91E725AB9458}|ProductInventoryManagement.csproj|D:\\College\\Sem2-C#.Net\\workspace\\ProductInventoryManagement\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0524F97A-E3FB-4CCA-9822-91E725AB9458}|ProductInventoryManagement.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0524F97A-E3FB-4CCA-9822-91E725AB9458}|ProductInventoryManagement.csproj|D:\\College\\Sem2-C#.Net\\workspace\\ProductInventoryManagement\\savedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0524F97A-E3FB-4CCA-9822-91E725AB9458}|ProductInventoryManagement.csproj|solutionrelative:savedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0524F97A-E3FB-4CCA-9822-91E725AB9458}|ProductInventoryManagement.csproj|D:\\College\\Sem2-C#.Net\\workspace\\ProductInventoryManagement\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0524F97A-E3FB-4CCA-9822-91E725AB9458}|ProductInventoryManagement.csproj|solutionrelative:form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SavedList.cs",
+              "DocumentMoniker": "D:\\College\\Sem2-C#.Net\\workspace\\ProductInventoryManagement\\SavedList.cs",
+              "RelativeDocumentMoniker": "SavedList.cs",
+              "ToolTip": "D:\\College\\Sem2-C#.Net\\workspace\\ProductInventoryManagement\\SavedList.cs",
+              "RelativeToolTip": "SavedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T02:05:53.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form.cs",
+              "DocumentMoniker": "D:\\College\\Sem2-C#.Net\\workspace\\ProductInventoryManagement\\Form.cs",
+              "RelativeDocumentMoniker": "Form.cs",
+              "ToolTip": "D:\\College\\Sem2-C#.Net\\workspace\\ProductInventoryManagement\\Form.cs",
+              "RelativeToolTip": "Form.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T01:07:48.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileIO.cs",
+              "DocumentMoniker": "D:\\College\\Sem2-C#.Net\\workspace\\ProductInventoryManagement\\FileIO.cs",
+              "RelativeDocumentMoniker": "FileIO.cs",
+              "ToolTip": "D:\\College\\Sem2-C#.Net\\workspace\\ProductInventoryManagement\\FileIO.cs",
+              "RelativeToolTip": "FileIO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:01:20.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\College\\Sem2-C#.Net\\workspace\\ProductInventoryManagement\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "D:\\College\\Sem2-C#.Net\\workspace\\ProductInventoryManagement\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:05:52.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form.cs [Design]",
+              "DocumentMoniker": "D:\\College\\Sem2-C#.Net\\workspace\\ProductInventoryManagement\\Form.cs",
+              "RelativeDocumentMoniker": "Form.cs",
+              "ToolTip": "D:\\College\\Sem2-C#.Net\\workspace\\ProductInventoryManagement\\Form.cs [Design]",
+              "RelativeToolTip": "Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:44:31.755Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\College\\Sem2-C#.Net\\workspace\\ProductInventoryManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\College\\Sem2-C#.Net\\workspace\\ProductInventoryManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T18:38:14.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
