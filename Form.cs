@@ -13,6 +13,7 @@ namespace ProductInventoryManagement
     public partial class Form : System.Windows.Forms.Form
     {
 
+        // construtor to define methods to execute when open the form
         public Form()
         {
             InitializeComponent();
@@ -21,6 +22,7 @@ namespace ProductInventoryManagement
             UpdateCheapestProduct();
         }
 
+        // method to show all the product in the listbox
         private void ShowListBox()
         {
             listBoxProducts.Items.Clear();
@@ -30,6 +32,7 @@ namespace ProductInventoryManagement
             }
         }
 
+        // method to calculate the avg price and show the value in the textfiled
         private void UpdateAveragePrice()
         {
             double totalPrice = 0;
@@ -52,6 +55,7 @@ namespace ProductInventoryManagement
 
         }
 
+        // method to get the information of the cheapest and show the value in textfield
         private void UpdateCheapestProduct()
         {
             double cheapestPrice = double.MaxValue;
@@ -77,6 +81,7 @@ namespace ProductInventoryManagement
 
         }
 
+        // method to show the searched information based on the name
         private void SearchByName(string name)
         {
             listBoxProducts.Items.Clear();
@@ -109,6 +114,7 @@ namespace ProductInventoryManagement
 
         }
 
+        // action of Clear button
         private void btnClear_Click(object sender, EventArgs e)
         {
             txtSearchName.Clear();
@@ -124,6 +130,7 @@ namespace ProductInventoryManagement
 
         }
 
+        // action of Save button
         private void btnSave_Click(object sender, EventArgs e)
         {
             // when all the input pass the validation, assign the values to the object
@@ -146,6 +153,7 @@ namespace ProductInventoryManagement
                     // prompt user to continue or not, if continue, clear text fields allow user add another, if not then close the form
                     MessageBox.Show("Product saved!", "", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
+                    // method after add a new product, clear the adding fields, automatically update the list box and avgprice, cheapest product
                     ClearTextFields();
                     ShowListBox();
                     UpdateAveragePrice();
@@ -159,12 +167,10 @@ namespace ProductInventoryManagement
                 {
                     MessageBox.Show($"An error occurred: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
-
-                
-
             }
         }
 
+        // method to clear all input fields
         private void ClearTextFields()
         {
             txtID.Clear();
@@ -189,7 +195,7 @@ namespace ProductInventoryManagement
                 // validate the type of id
                 int productId = int.Parse(txtID.Text);
 
-                // validate exist of input id
+                // validate exist of input id, calling the method in SavedList
                 if (SavedList.IdExist(productId))
                 {
                     MessageBox.Show($"ID {productId} already exists, please try another one!", "", MessageBoxButtons.OK, MessageBoxIcon.Warning);
@@ -256,7 +262,8 @@ namespace ProductInventoryManagement
 
             return result;
         }
-
+        
+        // action of search button, calling the SearchByName method
         private void btnSearch_Click(object sender, EventArgs e)
         {
             SearchByName(txtSearchName.Text);
@@ -279,10 +286,7 @@ namespace ProductInventoryManagement
 
         private void btnClearAdd_Click(object sender, EventArgs e)
         {
-            txtID.Clear();
-            txtName.Clear();
-            txtQty.Clear();
-            txtPrice.Clear();
+
         }
     }
 }

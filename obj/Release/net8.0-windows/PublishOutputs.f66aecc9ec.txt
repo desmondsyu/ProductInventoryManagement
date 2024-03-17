@@ -1,0 +1,5 @@
+D:\College\Sem2-C#.Net\workspace\ProductInventoryManagement\bin\Release\net8.0-windows\publish\ProductInventoryManagement.exe
+D:\College\Sem2-C#.Net\workspace\ProductInventoryManagement\bin\Release\net8.0-windows\publish\ProductInventoryManagement.dll
+D:\College\Sem2-C#.Net\workspace\ProductInventoryManagement\bin\Release\net8.0-windows\publish\ProductInventoryManagement.deps.json
+D:\College\Sem2-C#.Net\workspace\ProductInventoryManagement\bin\Release\net8.0-windows\publish\ProductInventoryManagement.runtimeconfig.json
+D:\College\Sem2-C#.Net\workspace\ProductInventoryManagement\bin\Release\net8.0-windows\publish\ProductInventoryManagement.pdb

@@ -34,7 +34,7 @@ namespace ProductInventoryManagement
             productsList.Add(product);            
         }
 
-        // method to return all id in the list
+        // method to validate if an id exists in the list
         public static bool IdExist(int id)
         {
             foreach(Product product in productsList)

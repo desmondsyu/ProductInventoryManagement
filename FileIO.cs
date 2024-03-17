@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Runtime.CompilerServices;
 using System.Text;
@@ -10,8 +11,7 @@ namespace ProductInventoryManagement
     internal class FileIO
     {
         // define the file path
-        private static string FilePath = @"..\..\..\product.txt";
-
+        private static string FilePath = @"\product.txt";
         // static method to wirte object field values to the file
         public static void WriteFile(Product product)
         {
@@ -44,7 +44,6 @@ namespace ProductInventoryManagement
                     }
                     else
                     {
-                        // Skip this line or handle it differently depending on your requirements
                         Console.WriteLine($"Invalid line: {line}");
                     }
                 }
