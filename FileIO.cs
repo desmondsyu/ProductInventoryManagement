@@ -11,8 +11,10 @@ namespace ProductInventoryManagement
     internal class FileIO
     {
         // define the file path
-        private static string FilePath = @"\product.txt";
-        // static method to wirte object field values to the file
+        // private static string FilePath = @"AppData/product.txt";
+
+        private static string dataFolderPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "AppData");
+        private static string FilePath = Path.Combine(dataFolderPath, "product.txt");
         public static void WriteFile(Product product)
         {
             StreamWriter sw = new StreamWriter(FilePath, true);
