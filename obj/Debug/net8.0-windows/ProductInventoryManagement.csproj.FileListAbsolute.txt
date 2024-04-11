@@ -15,4 +15,3 @@ D:\College\Sem2-C#.Net\workspace\ProductInventoryManagement\obj\Debug\net8.0-win
 D:\College\Sem2-C#.Net\workspace\ProductInventoryManagement\obj\Debug\net8.0-windows\ProductInventoryManagement.pdb
 D:\College\Sem2-C#.Net\workspace\ProductInventoryManagement\obj\Debug\net8.0-windows\ProductInventoryManagement.genruntimeconfig.cache
 D:\College\Sem2-C#.Net\workspace\ProductInventoryManagement\obj\Debug\net8.0-windows\ref\ProductInventoryManagement.dll
-D:\College\Sem2-C#.Net\workspace\ProductInventoryManagement\bin\Debug\net8.0-windows\AppData\product.txt
